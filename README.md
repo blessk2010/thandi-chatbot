@@ -36,5 +36,5 @@ This is a chatbot with multi stage processing of requests using RASA, OLLAMA, an
 - Pull chromadb docker image
 # Instructions.
 After building the mitundu-rasa core and action server, and thandi docker images, downloading ollama and LLMs, and chromadb, installing nginx for the UI
-- Use the provided script to start and stop all services, assuming you are on ubuntu.
+- Use the provided script to start and stop all services, assuming you are on ubuntu (startThandi.sh and stopThandi.sh)
 - Edit the configuration as per your setup.
